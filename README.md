@@ -1,2 +1,1 @@
-# D-empire_admin_system
-Admin system for D-EMPIRE 
+D-EMPIRE Ai★
